@@ -1,0 +1,5 @@
+Product,Category,Stock,ReorderLevel
+Phone,Electronics,18,10
+Laptop,Electronics,5,8
+Mouse,Accessories,42,15
+Keyboard,Accessories,9,12
